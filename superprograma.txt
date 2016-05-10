@@ -3,3 +3,4 @@ javaliste!
 public static void main
  //objeto whatever
 estamos en clase
+//nueva clase2
